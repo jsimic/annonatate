@@ -1,0 +1,44 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/0002386"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This is an unknown pile of cubes",
+            "purpose": "describing",
+            "creator": {
+                "id": "jsimic",
+                "name": "Julia Simic"
+            },
+            "created": "2021-06-24T16:50:00.502Z",
+            "modified": "2021-06-24T16:50:21.077Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Boxes",
+            "purpose": "tagging",
+            "creator": {
+                "id": "jsimic",
+                "name": "Julia Simic"
+            },
+            "created": "2021-06-24T16:50:24.466Z",
+            "modified": "2021-06-24T16:50:27.997Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/0002386",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4430.74267578125,3744.88330078125 4897.17041015625,3761.854248046875 4896.49658203125,4115.39697265625 4447.95849609375,4086.417724609375 4438.64599609375,3762.650634765625 4436.080078125,3753.005126953125 4434.830078125,3749.3828125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/0002386/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/7d5ebac9-5128-4978-abd9-d5d68b79bd21.json"
+}
