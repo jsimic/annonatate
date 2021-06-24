@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Testing",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://jsimic.github.io/annonatate/annotations/0002386-list.json'></iiif-storyboard>",
+            "title": "First an",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
