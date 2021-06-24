@@ -9,6 +9,12 @@
             "title": "First an",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://jsimic.github.io/annonatate/annotations/6-62-landscape-with-rainbow-saam-1983-95-160-1-tiff-lossy-page1-6819px-landscape-with-rainbow-saam-1983-95-160-1-tiff-jpg-list.json'></iiif-annotation>",
+            "title": "animal",
+            "description": "identifying animals",
+            "thumbnail": ""
         }
     ]
 }
